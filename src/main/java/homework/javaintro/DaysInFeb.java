@@ -13,7 +13,7 @@ public class DaysInFeb {
             System.out.println("Te rog adauga un an intre 1900 si 2016:");
         } else {
             int daysInFebruary = getDaysInFebruary(year);
-            System.out.println("February in " + year + " has " + daysInFebruary + " days.");
+            System.out.println("Luna Februarie in " + year + " a avut " + daysInFebruary + " zile.");
         }
     }
 
